@@ -1,0 +1,8 @@
+C:\Users\Kyle\Documents\School\2ndsem;1styear\OOP 2\Assignments\EmployeesLab\EmployeesLab\EmployeesLab\bin\Debug\EmployeesLab.exe.config
+C:\Users\Kyle\Documents\School\2ndsem;1styear\OOP 2\Assignments\EmployeesLab\EmployeesLab\EmployeesLab\bin\Debug\EmployeesLab.exe
+C:\Users\Kyle\Documents\School\2ndsem;1styear\OOP 2\Assignments\EmployeesLab\EmployeesLab\EmployeesLab\bin\Debug\EmployeesLab.pdb
+C:\Users\Kyle\Documents\School\2ndsem;1styear\OOP 2\Assignments\EmployeesLab\EmployeesLab\EmployeesLab\obj\Debug\EmployeesLab.csproj.AssemblyReference.cache
+C:\Users\Kyle\Documents\School\2ndsem;1styear\OOP 2\Assignments\EmployeesLab\EmployeesLab\EmployeesLab\obj\Debug\EmployeesLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kyle\Documents\School\2ndsem;1styear\OOP 2\Assignments\EmployeesLab\EmployeesLab\EmployeesLab\obj\Debug\EmployeesLab.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\School\2ndsem;1styear\OOP 2\Assignments\EmployeesLab\EmployeesLab\EmployeesLab\obj\Debug\EmployeesLab.exe
+C:\Users\Kyle\Documents\School\2ndsem;1styear\OOP 2\Assignments\EmployeesLab\EmployeesLab\EmployeesLab\obj\Debug\EmployeesLab.pdb
